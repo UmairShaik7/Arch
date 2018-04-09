@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "310796441408",
+    "firebase_url": "https://onyx-yeti-119804.firebaseio.com",
+    "project_id": "onyx-yeti-119804"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310796441408:android:4a5ab73781c7e47a",
+        "android_client_info": {
+          "package_name": "com.example.umshaik.arch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310796441408-6eb86ge9ev2qpmcljaumppm17k84rs7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umshaik.arch",
+            "certificate_hash": "e4b7a285ee6163de1527e8b4808534ea1a87054f"
+          }
+        },
+        {
+          "client_id": "310796441408-odrm23prt94q90vge0pkbjd0u4opge06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoHbR0v4mp2BxtPR5ZSCpAkP1W46Jw_H8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310796441408-odrm23prt94q90vge0pkbjd0u4opge06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
